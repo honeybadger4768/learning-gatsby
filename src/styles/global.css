@@ -6,3 +6,7 @@
 html {
     @apply text-white
 }
+
+#gatsby-wrapper {
+    height: 100vh;
+}
